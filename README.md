@@ -2,7 +2,7 @@
 The polymathProcess is an open-source framework for people to teach each other how to create a more sovereign society.
 
 ### Why is hu3 creating the polymathProcess?
-hu3 is creating the polymathProcess so everyone can redefine how institutions relate to us. We appreciate everything our society offers, but we also acknowledge that institutions have a history of pursuing power and success at the expense of people and The Planet.
+hu3 is creating the polymathProcess so everyone can redefine how institutions relate to us. We appreciate everything our society offers, but also know that institutions have a history of pursuing power and success at the expense of people and The Planet.
 
 We created the polymathProcess as a relationship protocol for people to explore their creativity, learn from diverse perspectives, and add to hu3.agency’s brand story. 
 
