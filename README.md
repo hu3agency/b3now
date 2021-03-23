@@ -20,26 +20,19 @@ Your DNA carries the genetic instructions for creating and operating all of your
 ### How do people use the polymathProcess?
 The polymathProcess is meant to be a tool that any person or brand can use to add to hu3’s brand story. All are welcome to contribute to any of the following sections that align with their interests:
 
-##### ourHome
-Learning and sharing about The Planet.
+**ourHome**: Learning and sharing about The Planet.
 
-##### myHome
-Learning and sharing about health.
+**myHome**: Learning and sharing about health.
 
-##### ourAwareness
-Learning and sharing about focus.
+**ourAwareness**: Learning and sharing about focus.
 
-##### myJourney
-Learning and sharing about creativity.
+**myJourney**: Learning and sharing about creativity.
 
-##### ourJourney
-Learning and sharing about collective intelligence.
+**ourJourney**: Learning and sharing about collective intelligence.
 
-##### ourConnection
-Learning and sharing about storytelling.
+**ourConnection**: Learning and sharing about storytelling.
 
-##### myConnection
-Learning and sharing about meaning.
+**myConnection**: Learning and sharing about meaning.
 
 We hope you notice that you’re already creating content that fits into at least one of these categories. The idea is that you see where your interests fit into the polymathProcess and keep doing what you’re doing.
 
