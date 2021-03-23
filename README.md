@@ -1,5 +1,5 @@
-# The polymathProcess
-The polymathProcess is a relationship protocol designed for people to teach each other how to create a more sovereign society.
+# polymathProcess
+The polymathProcess is a relationship protocol for people to teach each other how to create a more sovereign society.
 
 ## What is a relationship protocol? 
 hu3 defines a relationship protocol as a system of resources that help people define how they relate to life. 
