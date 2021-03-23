@@ -20,7 +20,6 @@ We created planetaryPhysiology as a branch of biomimicry that uses human physiol
 In planetaryPhysiology, we express our conceptual relationships between the human body and The Planet (“hu”) as analogies. Here’s our analogy for the polymathProcess:
 
 DNA  :  you ::  polymathProcess  :  hu
-DNA is to you as the polymathProcess is to The Planet ("hu")
 
 Your DNA carries the genetic instructions for creating and operating all of your bodily systems. For The Planet (“hu”), the polymathProcess is a flexible framework that allows us to define how we create and operate society.
 
