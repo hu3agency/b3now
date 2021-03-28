@@ -20,7 +20,7 @@ Your DNA carries the genetic instructions for creating and operating all of your
 ### Adding to huStory with the polymathProcess
 The polymathProcess is meant to be a tool that allows anyone to add to huStory. All are welcome to contribute to any of the following chapters that align with their interests:
 
-**Intro: polymathProcess**
+#### **Intro: polymathProcess**<br>
 Learning and sharing about education so we can teach ourselves how to change society.
 
 Use [#polymathProcess_intro] to add to this chapter.
