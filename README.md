@@ -25,7 +25,7 @@ Learning and sharing about education so we can teach ourselves how to change soc
 
 Use [#polymathProcess_intro] to add to this chapter.
 
-**Chapter 1: ourHome**
+**Chapter 1: ourHome**<br>
 Learning and sharing about ecology so we can rediscover our relationship to The Planet.
 
 Use [#polymathProcess_ch1] to add to this chapter.
