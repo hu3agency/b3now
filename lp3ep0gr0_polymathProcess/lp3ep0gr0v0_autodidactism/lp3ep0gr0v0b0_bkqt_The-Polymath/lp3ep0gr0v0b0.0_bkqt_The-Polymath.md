@@ -11,12 +11,12 @@ Our institutions thrive off of human specialization, but unfortunately, that usu
 
 LPBN - #lp3ep0gr0v0b0.0
 Beat Series Type - Book Quote
-----
+
 Title - The Polymath: Unlocking the Power of Human Versatility
 Author - Waqās Ahmed
 Publisher - Wiley
 ISBN - 978-1-119-50848-9
---
+
 LPBN Details:
 longPlay3 [#lp3] - huStory: We're All Right
 epicPlaylist0 [#lp3ep0] - Pilot: 2020Vision
