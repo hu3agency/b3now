@@ -7,7 +7,7 @@ Our institutions thrive off of human specialization, but unfortunately, that usu
 
 //
 
-LPBN - #lp3ep0gr0v0b0.0<br>
+LongPlay Beat Number (LPBN) - #lp3ep0gr0v0b0.0<br>
 Beat Series Type - Book Quote<br>
 
 Title - The Polymath: Unlocking the Power of Human Versatility<br>
