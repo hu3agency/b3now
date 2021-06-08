@@ -6,19 +6,17 @@ Our institutions thrive off of human specialization, but unfortunately, that usu
 #ourLongPlay category submission: #lp0ep0gr0 -- #polymathProcess
 
 //
-//
-//
 
 LPBN - #lp3ep0gr0v0b0.0<br>
-Beat Series Type - Book Quote
+Beat Series Type - Book Quote<br>
 
-Title - The Polymath: Unlocking the Power of Human Versatility
-Author - Waqās Ahmed
-Publisher - Wiley
-ISBN - 978-1-119-50848-9
+Title - The Polymath: Unlocking the Power of Human Versatility<br>
+Author - Waqās Ahmed<br>
+Publisher - Wiley<br>
+ISBN - 978-1-119-50848-9<br>
 
-LPBN Details:
-longPlay3 [#lp3] - huStory: We're All Right
-epicPlaylist0 [#lp3ep0] - Pilot: 2020Vision
-groove0 [#lp3ep0gr0] - 'Power?' by Moses Sumney
-verse0 [#lp3ep0gr0v0] - Autodidactism
+LPBN Details:<br>
+longPlay3 [#lp3] - huStory: We're All Right<br>
+epicPlaylist0 [#lp3ep0] - Pilot: 2020Vision<br>
+groove0 [#lp3ep0gr0] - 'Power?' by Moses Sumney<br>
+verse0 [#lp3ep0gr0v0] - Autodidactism<br>
