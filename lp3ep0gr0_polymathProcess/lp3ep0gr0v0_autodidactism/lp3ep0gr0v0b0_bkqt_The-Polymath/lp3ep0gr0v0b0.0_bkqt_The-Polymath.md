@@ -20,3 +20,5 @@ longPlay3 [#lp3] - huStory: We're All Right<br>
 epicPlaylist0 [#lp3ep0] - Pilot: 2020Vision<br>
 groove0 [#lp3ep0gr0] - 'Power?' by Moses Sumney<br>
 verse0 [#lp3ep0gr0v0] - Autodidactism<br>
+<br>
+Beat Editor: @trainfarb
