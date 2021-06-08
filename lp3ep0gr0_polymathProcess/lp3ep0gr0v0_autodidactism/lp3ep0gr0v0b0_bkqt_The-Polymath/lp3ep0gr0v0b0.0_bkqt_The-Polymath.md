@@ -5,7 +5,7 @@ Our institutions thrive off of human specialization, but unfortunately, that usu
 <br>
 LP3 Tags: #autodidact #educationalresources #biomimicry #egodeath --- #ourLongPlay #lp0ep0gr0 #polymathProcess <br>
 <br>
-//<br>
+/////////<br>
 <br>
 LongPlay Beat Number (LPBN) - #lp3ep0gr0v0b0.0<br>
 Beat Series Type - Book Quote<br>
