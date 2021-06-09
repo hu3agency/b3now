@@ -1,6 +1,6 @@
 ### LP3 - HuStory: We're All Right
 # EP0 - Pilot: 2020Vision --- ourOpenSociety
-<br>
+
 ## Groove 0: 'Power?' by Moses Sumney
 <br>
 [_lp3ep0gr0 - polymathProcess_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr0_polymathProcess)
