@@ -1,7 +1,8 @@
 ### LP3 - HuStory: We're All Right
 # EP0 - Pilot: 2020Vision --- ourOpenSociety
 
-lp3ep0gr0 - polymathProcess
+## Groove 0: 'Power?' by Moses Sumney
+[_lp3ep0gr0 - polymathProcess_]()
   * Autodidactism - How will you explore your curiosity?
     * Mycelium’s role on The Planet
     * Polymath humans related to mycelium
