@@ -1,5 +1,5 @@
-### LP3 - HuStory: We're All Right
-## EP0 - Pilot: 2020Vision --- ourOpenSociety
+#### LP3 - HuStory: We're All Right
+# EP0 - Pilot: 2020Vision --- ourOpenSociety
 
 lp3ep0gr0 - polymathProcess
   * Autodidactism - How will you explore your curiosity?
