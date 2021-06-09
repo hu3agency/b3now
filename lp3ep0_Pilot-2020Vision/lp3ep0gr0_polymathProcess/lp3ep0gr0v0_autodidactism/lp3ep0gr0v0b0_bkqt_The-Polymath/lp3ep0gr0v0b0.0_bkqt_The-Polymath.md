@@ -1,13 +1,11 @@
 Caption:<br>
-What would happen if we taught ourselves whatever we wanted to learn? We're sharing quotes from "The Polymath" to remind ourselves that the greatest achievements in history have been made by people who didn't specialize in one field.<br>
-<br>
-Our institutions thrive off of human specialization, but unfortunately, that usually at the expense of people living the lives they want. Let's come up with a new model that allows humans to discover their polymath potential so we can redesign institutions to support our creative growth.<br>
+What will happen when more of us explore our potential as polymaths? We're sharing quotes from "The Polymath" to remind ourselves that the greatest achievements will continue be made by people who allow themselves to explore their curiosity.<br>
 <br>
 LP3 Tags: #autodidact #educationalresources #biomimicry #egodeath --- #ourLongPlay #lp0ep0gr0 #polymathProcess <br>
 <br>
-/////////<br>
+--
 <br>
-LongPlay Beat Number (LPBN) - #lp3ep0gr0v0b0.0<br>
+LongPlay Beat Network (LPBN) ID - #lp3ep0gr0v0b0.0<br>
 Beat Series Type - Book Quote<br>
 <br>
 Title - The Polymath: Unlocking the Power of Human Versatility<br>
