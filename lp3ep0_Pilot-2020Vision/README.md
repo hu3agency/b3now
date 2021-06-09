@@ -8,7 +8,7 @@
     A lot of people think secret societies hold all of the power in the world. Since we're interested in creating subcultures that can collaborate to define The Planet's path, we'll be learning more about different secret societies so we can openly apply what they do to create @ourOpenSociety.
 
 #### Biomimicry - How will you relate to nature?
-<br>
+
 We're trying to make invisible forces (secret societies) visible. The non-human secret soceity on The Planet is definitly fungi. We'll be relating the unseen players defining our global culture to the unseen myceliym that define all life on The Planet.
 
 ##### Ego Development - How will you measure your growth?
