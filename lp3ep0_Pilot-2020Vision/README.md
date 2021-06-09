@@ -1,5 +1,4 @@
-#### LP3 - HuStory: We're All Right
-# EP0 - Pilot: 2020Vision --- ourOpenSociety
+# LP3EP0 - Pilot: 2020Vision --- ourOpenSociety
 
 ## Groove 0: 'Power?' by Moses Sumney
 [_lp3ep0gr0 - polymathProcess_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr0_polymathProcess)
@@ -78,8 +77,8 @@ Based on 'The 9 Stages of Ego Development' 75-80% of adults are in the 'Conventi
 * _Play_ - in huStory, the exploration of The Planet’s shared mythology is meant to create a playground where each avatar has a way to work through its various levels of ego development in order to also level up The Planet’s collective consciousness. The more they move up and unlock, the more powerful and fun the entire system becomes.
 * _Consciousness_ - The ultimate goal of this shared game is for The Planet to reach higher and higher states of consciousness and understanding. Once this stage is reaches, The Planet will have fully integrated its secret societies into all aspects of its day-to-day life so it can live with a more open and democratic culture for everyone.
 
-## Groove 7: 'Better By Your Side' by Aeble, Tom Aspaul
-[_lp3ep0gr7 - ourConnection_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr7_ourConnection)
+## Groove 8: 'Better By Your Side' by Aeble, Tom Aspaul
+[_lp3ep0gr8 - ourLongPlay_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr8_ourLongPlay)
  
 ### Evolve - What is lp3ep0 changing?
 We’re understanding and integrating our centralized secret societies so we can create a decentralized open society.
