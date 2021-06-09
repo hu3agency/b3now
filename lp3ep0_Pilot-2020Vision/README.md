@@ -1,13 +1,11 @@
 #### LP3 - HuStory: We're All Right
 # EP0 - Pilot: 2020Vision --- ourOpenSociety
 
-
 ## Groove 0: 'Power?' by Moses Sumney
 [_lp3ep0gr0 - polymathProcess_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr0_polymathProcess)
 
 ### Autodidactism - How will you explore your curiosity?
-
-A lot of people think secret societies hold all of the power in the world. Since we're interested in creating subcultures that can collaborate to define The Planet's path, we'll be learning more about different secret societies so we can openly apply what they do to create @ourOpenSociety.
+Are secret societies real? A lot of people think they hold all of the power in the world. Since we're interested in creating subcultures that can collaborate to define The Planet's path, we'll be learning more about different secret societies so we can all apply what we want to create @ourOpenSociety - an alternative to secret societies where every person has the power to difine our future. 
 
 ### Biomimicry - How will you relate to nature?
 
@@ -21,7 +19,7 @@ Based on 'The 9 Stages of Ego Development' 75-80% of adults are in the 'Conventi
 [_lp3ep0gr1 - ourHome_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr1_ourHome)
 
 ### ourHome - What is The Planet, and how is it the main character in this epicPlaylist (EP)?**
-<br>
+
 * _Ecology_ - Fungi is the focus of lp3ep0. The Planet thinks by sending data through our mycelial network, and information is processed/transmitted through plants, animals, and humans acting as The Planet's neurons.
 <br>
 * _Physiology_ - Considering fractals, humans will be seen as self-similar sections modeled after The Planet. In lp3ep0, we'll be exploring the human nervous system to better understand how The Planet communicates.
