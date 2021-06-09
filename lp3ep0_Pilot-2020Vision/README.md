@@ -1,28 +1,38 @@
 ### LP3 - HuStory: We're All Right
 # EP0 - Pilot: 2020Vision --- ourOpenSociety
-
+<br>
 ## Groove 0: 'Power?' by Moses Sumney
+<br>
 [_lp3ep0gr0 - polymathProcess_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr0_polymathProcess)
-  * Autodidactism - How will you explore your curiosity?
-    * Mycelium’s role on The Planet
-    * Polymath humans related to mycelium
-    * Centralized Secret Societies and their influence on culture
-  * Biomimicry - How will you relate to nature?
-    * Mycelium are the neurons of The Planet and send information between trees
-    * Humans are link between our mycelial roots and the culture we’ve created
-    * Exploring if we can structure how we plan society with how mycelium and our nervous systems transmit information
-  * Ego Development - How will you measure your growth?
-    * As people create new LPs, have them read through the 9 levels of ego development and have them categorize the concept of secret societies in one of the stages
-    * Track number of hashtags added
-    * Value created from NFTs for this EP
+<br>
+**Autodidactism - How will you explore your curiosity?**
+<br>
+A lot of people think secret societies hold all of the power in the world. Since we're interested in creating subcultures that can collaborate to define The Planet's path, we'll be learning more about different secret societies so we can openly apply what they do to create @ourOpenSociety.
+<br>
+**Biomimicry - How will you relate to nature?**
+<br>
+We're trying to make invisible forces (secret societies) visible. The non-human secret soceity on The Planet is definitly fungi. We'll be relating the unseen players defining our global culture to the unseen myceliym that define all life on The Planet.
+<br>
+**Ego Development - How will you measure your growth?**
+Based on 'The 9 Stages of Ego Development' 75-80% of adults are in the 'Conventional' stage. To help ourselves grow into the 'Post-Conventional' stage, we'll be tracking our growth based on the amount of content shared. Rather than basing our success on external validation, we'll be defining our growth based on how disciplined we can be about sharing consistent content.
 <br>
 ## Groove 1: 'Posthuous Forgiveness' by Tame Impala
-[_lp3ep0gr1 - ourHome_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr0_polymathProcess)
-* ourHome - What is The Planet? How does The Planet act as the protagonist in this EpicPlaylist?
-  * Ecology - The Planet is the main character. Mycelium is how The Planet thinks/sends information and trees are the nodes where information is processed and transmitted.
-  * Physiology - Humans are a smaller fractal projections (avatars) of The Planet. Human nervous system was modeled after mycelium and neurons are modeled after trees.
-  * Culture - Culture is a larger fractal projection of humans. Communication was modeled after the human nervous system, and humans act as the neurons/nodes.
-* myHome - What is a human? How do humans relate to The Planet in huStory?
+<br>
+[_lp3ep0gr1 - ourHome_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr1_ourHome)
+<br>
+**ourHome - What is The Planet, and how is it the main character in this epicPlaylist (EP)?**
+<br>
+* _Ecology_ - Fungi is the focus of lp3ep0. The Planet thinks by sending data through our mycelial network, and information is processed/transmitted through plants, animals, and humans acting as The Planet's neurons.
+<br>
+* _Physiology_ - Considering fractals, humans will be seen as self-similar sections modeled after The Planet. In lp3ep0, we'll be exploring the human nervous system to better understand how The Planet communicates.
+<br>
+* _Culture_ - Again considering fractals, culture is a self-similar projection modeled after humans. Humans are the neurons of our global society. In lp3ep0, we'll be exploring communication through our culture and, again, relating it back to how The Planet communicated with fungi.
+<br>
+## Groove 2: 'Bemyself' by Parcels
+<br>
+[_lp3ep0gr2 - myHome_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr2_myHome)
+<br>
+**myHome - What is a human, and what role to they play in this epicPlaylist (EP)?**
   * Relate - Humans are based on relationships. How they relate to The Planet, themselves, each other, and their cultures. Since humans are avatars of The Planet, the state of any relationship informs the reader about how The Planet is relating to itself.
   * Body - In huStory, the human body was designed after the ecological systems of The Planet. How every person treats their own body is a reflection of how The Planet chooses to treat itself.
   * Mind - Each human mind acts as a node in the mind of The Planet. The mental state of each human is a representation of the mental state of The Planet.
