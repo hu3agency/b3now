@@ -1,22 +1,22 @@
-### LP3 - HuStory: We're All Right
+#### LP3 - HuStory: We're All Right
 # EP0 - Pilot: 2020Vision --- ourOpenSociety
 
 ## Groove 0: 'Power?' by Moses Sumney
 [_lp3ep0gr0 - polymathProcess_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr0_polymathProcess)
+
+### Autodidactism - How will you explore your curiosity?
 <br>
-**Autodidactism - How will you explore your curiosity?**
-<br>
-A lot of people think secret societies hold all of the power in the world. Since we're interested in creating subcultures that can collaborate to define The Planet's path, we'll be learning more about different secret societies so we can openly apply what they do to create @ourOpenSociety.
-<br>
-**Biomimicry - How will you relate to nature?**
+    A lot of people think secret societies hold all of the power in the world. Since we're interested in creating subcultures that can collaborate to define The Planet's path, we'll be learning more about different secret societies so we can openly apply what they do to create @ourOpenSociety.
+
+#### Biomimicry - How will you relate to nature?
 <br>
 We're trying to make invisible forces (secret societies) visible. The non-human secret soceity on The Planet is definitly fungi. We'll be relating the unseen players defining our global culture to the unseen myceliym that define all life on The Planet.
+
+##### Ego Development - How will you measure your growth?
 <br>
-**Ego Development - How will you measure your growth?**
 Based on 'The 9 Stages of Ego Development' 75-80% of adults are in the 'Conventional' stage. To help ourselves grow into the 'Post-Conventional' stage, we'll be tracking our growth based on the amount of content shared. Rather than basing our success on external validation, we'll be defining our growth based on how disciplined we can be about sharing consistent content.
-<br>
+
 ## Groove 1: 'Posthuous Forgiveness' by Tame Impala
-<br>
 [_lp3ep0gr1 - ourHome_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr1_ourHome)
 <br>
 **ourHome - What is The Planet, and how is it the main character in this epicPlaylist (EP)?**
