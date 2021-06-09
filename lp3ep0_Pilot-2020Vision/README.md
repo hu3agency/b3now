@@ -2,7 +2,7 @@
 # EP0 - Pilot: 2020Vision --- ourOpenSociety
 
 ## Groove 0: 'Power?' by Moses Sumney
-[_lp3ep0gr0 - polymathProcess_]()
+[_lp3ep0gr0 - polymathProcess_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr0_polymathProcess)
   * Autodidactism - How will you explore your curiosity?
     * Mycelium’s role on The Planet
     * Polymath humans related to mycelium
@@ -15,6 +15,9 @@
     * As people create new LPs, have them read through the 9 levels of ego development and have them categorize the concept of secret societies in one of the stages
     * Track number of hashtags added
     * Value created from NFTs for this EP
+<br>
+## Groove 1: 'Posthuous Forgiveness' by Tame Impala
+[_lp3ep0gr1 - ourHome_](https://github.com/hu3agency/lp3_huStory/tree/main/lp3ep0_Pilot-2020Vision/lp3ep0gr0_polymathProcess)
 * ourHome - What is The Planet? How does The Planet act as the protagonist in this EpicPlaylist?
   * Ecology - The Planet is the main character. Mycelium is how The Planet thinks/sends information and trees are the nodes where information is processed and transmitted.
   * Physiology - Humans are a smaller fractal projections (avatars) of The Planet. Human nervous system was modeled after mycelium and neurons are modeled after trees.
