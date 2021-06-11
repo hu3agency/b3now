@@ -1,5 +1,5 @@
 Caption:<br>
-We choose to accept that this is "just the way life is," but we can choose to change whatever we want. Let's redefine what education means for society. Let's teach ourselves whatever we want so we don't have to rely on centralized institutions to tell us what's best for us. #ourLongPlay_gr0v0: #polymathProcess #autodidactism<br>
+We don't have to accept that things we don't like about society are "just how the world works." We are free to choose to change whatever we want. Let's redefine what education means for society. Let's teach ourselves what peaks our interest so we don't have to rely on centralized institutions to tell us what's best for us. #ourLongPlay_gr0v0: #polymathProcess #autodidactism<br>
 <br>
 Your perspective matters. Send us a DM if you want to get more involved.<br>
 -- <br>
