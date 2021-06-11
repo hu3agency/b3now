@@ -1,8 +1,7 @@
 Caption:<br>
 We choose to accept that this is "just the way life is," but we can choose to change whatever we want. Let's redefine what education means for society. Let's teach ourselves whatever we want so we don't have to rely on centralized institutions to tell us what's best for us. #ourLongPlay_gr0v0: #polymathProcess #autodidactism<br>
 <br>
-Your perspective matters. Send us a DM if you want to get more involved.
-<br>
+Your perspective matters. Send us a DM if you want to get more involved.<br>
 -- <br>
 -- <br>
 -- <br>
@@ -17,7 +16,6 @@ Your perspective matters. Send us a DM if you want to get more involved.
 -- <br>
 -- <br>
 -- <br>
-<br>
 LongPlay Beat Network (LPBN) ID - lp3ep0gr0v0b0.1<br>
 Beat Series Type - Book Quote<br>
 <br>

@@ -1,8 +1,7 @@
 Caption:<br>
 We have an infinite amount of power, but it's unrealized power. We choose to give our power to centralized institutions. We can teach ourselves anything we want. We can (and will) create a decentralized group of humans that organize their diverse perspectives in a direction that will truly benefit people who are suffering. Let's all realize our potential as polymaths by understanding that we have the power to learn whatever we want. #ourLongPlay_gr0v0: #polymathProcess #autodidactism<br>
 <br>
-Your perspective matters. Send us a DM if you want to get more involved.
-<br>
+Your perspective matters. Send us a DM if you want to get more involved.<br>
 -- <br>
 -- <br>
 -- <br>
@@ -17,7 +16,6 @@ Your perspective matters. Send us a DM if you want to get more involved.
 -- <br>
 -- <br>
 -- <br>
-<br>
 LongPlay Beat Network (LPBN) ID - lp3ep0gr0v0b0.0<br>
 Beat Series Type - Book Quote<br>
 <br>
