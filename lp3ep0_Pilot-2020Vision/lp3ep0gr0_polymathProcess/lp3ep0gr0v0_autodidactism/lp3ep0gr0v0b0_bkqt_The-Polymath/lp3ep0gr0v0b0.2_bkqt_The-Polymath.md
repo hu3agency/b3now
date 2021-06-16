@@ -1,5 +1,5 @@
 Caption:<br>
-Can this subculture create more complete ideas if we support people in becoming everything they're capable of? #ourLongPlay_gr0v0: #polymathProcess #autodidactism<br>
+Can our subculture create more complete ideas if we support people in becoming everything they're capable of? #ourLongPlay_gr0v0: #polymathProcess #autodidactism<br>
 <br>
 Your perspective matters. Send us a DM if you want to get more involved.<br>
 -- <br>
