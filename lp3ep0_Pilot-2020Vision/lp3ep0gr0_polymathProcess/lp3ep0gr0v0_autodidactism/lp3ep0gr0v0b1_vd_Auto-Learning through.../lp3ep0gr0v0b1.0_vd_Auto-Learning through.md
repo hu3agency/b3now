@@ -30,7 +30,7 @@ epicPlaylist0 [lp3ep0] - Pilot: 2020Vision<br>
 groove0 [lp3ep0gr0] - pP - 'Power?' by Moses Sumney (@moses)<br>
 verse0 [lp3ep0gr0v0] - Autodidactism<br>
 <br>
-Beat Composition: @trainfarb
-<br>
+Title Video: Jakub Gorajek from Pexels<br>
+Beat Composition: @trainfarb<br>
 -- <br>
 LP3 Tags: #polymathProcess #autodidact #educationalresources #biomimicry #egodeath #decentralization #indigenousculture #mentalresilience #mediadiet #atomichabits #theartistsway #permaculturedesign #omnism #scienceiscool #meaningoflife #gamingcommunity #shadowworker #josephcampbell #mythology<br>
